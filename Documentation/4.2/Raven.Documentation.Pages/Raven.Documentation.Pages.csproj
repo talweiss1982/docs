@@ -14,8 +14,4 @@
     <Folder Include="studio\database\tasks\images\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="RavenDB.Client" Version="4.2.0-nightly-20190513-0501" />
-  </ItemGroup>
-
 </Project>
